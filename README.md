@@ -1,6 +1,8 @@
 clojure.tools.namespace
 ========================================
 
+> NOTE: This fork is no longer necessary, use the original org.clojure/tools.namespace
+
 ## Babashka maintained fork
 
 This fork of `tools.namespace` works in babashka. To make it compatible, the
